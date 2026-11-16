@@ -85,9 +85,9 @@ $$
 
 Kde:
 
-- \(A\) je dostupnost v procentech,
-- \(T_{provoz}\) je doba, kdy služba funguje,
-- \(T_{výpadek}\) je doba, kdy služba nefunguje.
+- A je dostupnost v procentech,
+- T (provoz) je doba, kdy služba funguje,
+- T (výpadek) je doba, kdy služba nefunguje.
 
 *Bezpečnostní mechanismy samy o sobě nezaručují stoprocentní dostupnost. Pomáhají však omezovat některé příčiny incidentů.*
 
@@ -127,10 +127,6 @@ flowchart TD
 ## Závěr
 
 OpenBSD je zajímavou volbou pro uživatele, kteří chtějí pochopit unixové systémy do hloubky a oceňují bezpečnost, kvalitní dokumentaci a jednoduchý návrh. Hodí se například pro firewall, serverové nasazení, síťové experimenty i studium operačních systémů.
-
-*Poznámka: Konkrétní dostupnost funkcí a podporovaný hardware se mohou lišit podle verze a architektury.*
-
----
 
 ~~OpenBSD není Linux. A rozhodně se za něj ani nevydává.~~
 
