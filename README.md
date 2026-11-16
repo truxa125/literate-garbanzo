@@ -33,7 +33,6 @@ Důležitou vlastností je úzká integrace základního systému. Nástroje jak
 |---|---|
 | **pledge(2)** | Omezuje dostupné operace procesu. |
 | **unveil(2)** | Omezuje přístup procesu k souborům a adresářům. |
-| **W^X** | Zamezuje současné zapisovatelnosti a spustitelnosti paměťových oblastí. |
 | **PF** | Stavový paketový filtr a firewall. |
 | **doas** | Jednoduchý nástroj pro spouštění příkazů s právy jiného uživatele. |
 
