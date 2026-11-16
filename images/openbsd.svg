@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">OpenBSD – svobodný unixový operační systém</title>
+  <desc id="desc">Stylizovaná červená pufferfish ryba na tmavém pozadí s nápisem OpenBSD.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18212b"/><stop offset="1" stop-color="#303b46"/></linearGradient>
+    <linearGradient id="fish" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#ff9b70"/><stop offset="1" stop-color="#c83232"/></linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <g transform="translate(110 45)">
+    <path d="M90 165 C120 65 265 45 365 125 C405 155 420 220 365 265 C270 340 125 300 90 215 C72 198 70 180 90 165Z" fill="url(#fish)" stroke="#ffd1b5" stroke-width="8"/>
+    <path d="M350 155 L455 92 L430 190 L465 270 L350 230Z" fill="#e35a48" stroke="#ffd1b5" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M180 105 Q225 35 275 80 L245 125Z" fill="#e35a48" stroke="#ffd1b5" stroke-width="7"/>
+    <path d="M180 275 Q225 345 275 300 L245 255Z" fill="#e35a48" stroke="#ffd1b5" stroke-width="7"/>
+    <circle cx="150" cy="160" r="17" fill="#fff"/><circle cx="155" cy="160" r="8" fill="#17202a"/>
+    <path d="M90 195 Q65 205 90 218" fill="none" stroke="#702b2b" stroke-width="8" stroke-linecap="round"/>
+    <g fill="#ffd6b8"><path d="M205 85 l-10 -25 22 15Z"/><path d="M260 90 l2 -28 17 23Z"/><path d="M315 112 l15 -23 7 30Z"/><path d="M205 285 l-10 25 22 -15Z"/><path d="M260 280 l2 28 17 -23Z"/></g>
+  </g>
+  <text x="610" y="190" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="2">OpenBSD</text>
+  <text x="615" y="246" fill="#f2b49a" font-family="Arial, Helvetica, sans-serif" font-size="27" letter-spacing="4">SECURITY • SIMPLICITY • FREEDOM</text>
+  <text x="615" y="315" fill="#c7d0d8" font-family="Arial, Helvetica, sans-serif" font-size="20">A free, multi-platform UNIX-like operating system</text>
+</svg>
