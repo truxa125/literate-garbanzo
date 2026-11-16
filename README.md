@@ -127,7 +127,3 @@ flowchart TD
 ## Závěr
 
 OpenBSD je zajímavou volbou pro uživatele, kteří chtějí pochopit unixové systémy do hloubky a oceňují bezpečnost, kvalitní dokumentaci a jednoduchý návrh. Hodí se například pro firewall, serverové nasazení, síťové experimenty i studium operačních systémů.
-
-~~OpenBSD není Linux. A rozhodně se za něj ani nevydává.~~
-
-*Dokument vytvořen jako ukázkový projekt v Markdownu pro GitHub.*
